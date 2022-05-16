@@ -397,4 +397,15 @@ body {
   -webkit-box-shadow: none;
           box-shadow: none;
 }
+
+.flotante {
+  display: scroll;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+.flotante img {
+  height: 100px;
+}
 /*# sourceMappingURL=estilos.css.map */
